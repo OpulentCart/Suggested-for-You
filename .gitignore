@@ -1,2 +1,9 @@
 ai
 .env
+Suggested_Products/__pycache__/*
+suggested_for_you/__pycache__/*
+*.pyc
+__pycache__/
+*.pyc
+*/__pycache__/*
+suggested_for_you/migrations/__pycache__/*
